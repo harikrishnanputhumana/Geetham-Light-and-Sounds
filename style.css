@@ -168,18 +168,18 @@ Cover and Image Animation configuration
 
 @keyframes change{
     0%{
-        background-image: url(images/photo1.jpg);
+        background-image: url(home1.jpg);
 
     }
    
 
     50%{
-        background-image: url(images/photo2.jpg);
+        background-image: url(home2.jpg);
         
     }
    
     100%{
-        background-image: url(images/photo1.jpg);
+        background-image: url(home1.jpg);
         
     }
 }
