@@ -252,7 +252,8 @@ Cover and Image Animation configuration
 	}
 
 	.hero a.btn{
-		padding: 15px 40px;
+        padding: 15px 40px;
+        border-radius: 2vh;
 	}
 
 }
